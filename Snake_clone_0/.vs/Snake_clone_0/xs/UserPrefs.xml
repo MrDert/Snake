@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{8C19A08B-6D5C-08A9-0E0E-D054FEA1EE9B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Snake/Assets/Scripts/Tail/TaiiMovement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Tail/TailNetwork.cs" Line="32" Column="33" />
+      <File FileName="Assets/Scripts/Tail/TaiiMovement.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Snake_clone_0" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="812d5a9a-dec6-4da1-be74-33b23f071117" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
